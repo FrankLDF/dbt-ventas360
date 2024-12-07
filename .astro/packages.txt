@@ -1,0 +1,5 @@
+# Archivo: .astro/packages.txt
+# Ejemplo de dependencias del sistema (para Snowflake)
+gcc
+libssl-dev
+libffi-dev

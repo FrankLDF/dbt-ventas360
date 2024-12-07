@@ -1,0 +1,4 @@
+# Archivo: .astro/requirements.txt
+apache-airflow==2.7.0
+apache-airflow-providers-snowflake==4.3.0
+dbt-snowflake==1.7.0
